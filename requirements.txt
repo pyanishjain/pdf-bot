@@ -1,0 +1,4 @@
+requests-html
+PyPDF2
+requests_html
+jupyterlab
